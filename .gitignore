@@ -1,0 +1,16 @@
+*.log
+*.lck
+*.dmp
+*.trc
+*.trm
+*.aud
+*.html
+*.lst
+*.tmp
+logs/*
+!logs/.gitkeep
+.env
+secret*
+wallet*
+ewallet.p12
+cwallet.sso
