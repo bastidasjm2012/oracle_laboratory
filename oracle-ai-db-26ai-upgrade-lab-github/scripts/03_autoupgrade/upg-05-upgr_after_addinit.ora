@@ -1,0 +1,3 @@
+# Parameters to add after upgrade.
+# Lab purpose: simulate optimizer behavior change for regression analysis.
+optimizer_index_cost_adj=1
